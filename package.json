@@ -44,7 +44,7 @@
     "summernote": "^0.8.11",
     "switchery": "0.0.2",
     "ti-icons": "^0.1.2",
-    "tinymce": "^4.9.2"
+    "tinymce": "^5.10.0"
   },
   "devDependencies": {
     "browser-sync": "^2.24.6",
